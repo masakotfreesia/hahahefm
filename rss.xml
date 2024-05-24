@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Your Podcast Title</title>
+    <link>http://hahahefm.blogspot.com</link>
+    <description>Your podcast description</description>
+    <language>en-us</language>
+    <managingEditor>masako.t.freesia@gmail.com (masakotfreesia)</managingEditor>
+    <item>
+      <title>Episode</title>
+      <description>hahahe-no-fm!</description>
+      <pubDate>24 May 2024 08:00:00 JST</pubDate>
+    </item>
+  </channel>
+</rss>
